@@ -19,5 +19,7 @@
 
 <br>
 
-[![Hits align="center"](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%23E5EAF6&title_bg=%2315151F&icon=hey.svg&icon_color=%23E5EAF6&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact)](https://github.com/qqaazz0222/github-readme-stats)
+<div align="center">
+  [![Hits align="center"](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%23E5EAF6&title_bg=%2315151F&icon=hey.svg&icon_color=%23E5EAF6&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
