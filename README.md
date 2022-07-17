@@ -20,5 +20,6 @@
 <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact)](https://github.com/qqaazz0222/github-readme-stats)
   <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%2328282F&title_bg=%2328282F&icon=hey.svg&icon_color=%23E9E9FF&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+%EB%A7%9E%EC%9D%80+%ED%9A%9F%EC%88%98&edge_flat=true"/></a>
 </div>
-<a href="https://hits.seeyoufarm.com" align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%2328282F&title_bg=%2328282F&icon=hey.svg&icon_color=%23E9E9FF&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+%EB%A7%9E%EC%9D%80+%ED%9A%9F%EC%88%98&edge_flat=true"/></a>
+
