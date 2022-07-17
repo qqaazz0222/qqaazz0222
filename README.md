@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mamensu&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mamensu&fontSize=70)
 
-<p align="center">🇰🇷 </p>
+<h1 align="center">Hello. I'm HyunSu🇰🇷 </h1>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%2328282F&title_bg=%2328282F&icon=hey.svg&icon_color=%23E9E9FF&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+%EB%A7%9E%EC%9D%80+%ED%9A%9F%EC%88%98&edge_flat=true"/></a>
+</div>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🔨 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
@@ -25,6 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qqaazz0222&repo=convoychat" />
 </a>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqqaazz0222&count_bg=%2328282F&title_bg=%2328282F&icon=hey.svg&icon_color=%23E9E9FF&title=%EB%A7%88%EB%A9%98%EC%88%98+%EC%97%89%EB%8D%A9%EC%9D%B4+%EB%A7%9E%EC%9D%80+%ED%9A%9F%EC%88%98&edge_flat=true"/></a>
 </div>
 
