@@ -21,7 +21,7 @@
   </p>
   <br><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=dracula)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)](https://github.com/metleeha)
 
 </div>
 
