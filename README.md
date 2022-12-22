@@ -20,7 +20,7 @@
   
   <h3 align="center">🙇🏻 Studing</h3>
   
-    <p align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>&nbsp
   </p>
