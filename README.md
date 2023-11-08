@@ -17,7 +17,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp    
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp <br>
-    <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp    
+    <img src="https://img.shields.io/badge/-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp    
   </p>
   <br><br>
   
