@@ -32,6 +32,6 @@
   <br><br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)](https://github.com/qqaazz0222)
-
+  [![mamensu's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqaazz0222)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
