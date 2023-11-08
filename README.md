@@ -22,16 +22,14 @@
     <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>&nbsp  
     <img src="https://img.shields.io/badge/route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp    
   </p>
-  <br><br>
-  
+  <br>
   <h3 align="center">🙇🏻 Studing</h3>
-  
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>&nbsp
   </p>
-  <br><br>
-  
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)](https://github.com/qqaazz0222)
+  <br>
   [![mamensu's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqaazz0222)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
