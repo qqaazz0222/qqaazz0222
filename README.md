@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp <br>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp  
     <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>&nbsp  
-    <img src="https://img.shields.io/badge/dynamo_db-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/></a>&nbsp  
     <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/></a>&nbsp  
-    <img src="https://img.shields.io/badge/route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp<br>
+    <img src="https://img.shields.io/badge/route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/></a>&nbsp<br>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp    
   </p>
   <br>
-  <h3 align="center">🙇🏻 Studing</h3>
+  <h3 align="center">🙇🏻 Studying</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>&nbsp
   </p>
