@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>&nbsp
   </p>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)](https://github.com/qqaazz0222)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)]()
   <br>
   [![mamensu's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqaazz0222)]()
 </div>
