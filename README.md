@@ -29,10 +29,6 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp    
   </p>
   <br>
-  <h3 align="center">🙇🏻 Studying</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>&nbsp
-  </p>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqaazz0222&layout=compact&theme=light)]()
   <br>
